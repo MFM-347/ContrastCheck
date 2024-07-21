@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgc {
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
