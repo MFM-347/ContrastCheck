@@ -6,6 +6,7 @@ Created by [Farhan Madni](https://github.com/MFM-347)
 ### Powered with
 - [VueJS](https://github.com/vuejs) For Markup and Script
 - [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) For Styles
+- [AnimeJS](https://github.com/juliangarnier/anime) For Animations
 - [TinyColor2](https://github.com/bgrins/tincolor) For Color interpretation
 - [Vite-Plugin-PWA](https://github.com/vite-pwa/vite-plugin-pwa) For PWA Support
 - [ViteJS](https://github.com/vitejs) For Development Server and Front-End Build Tool

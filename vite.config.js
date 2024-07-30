@@ -14,7 +14,7 @@ export default defineConfig({
         name: 'ContrastChecker',
         short_name: 'ContrastCheck',
         description: 'Check color contrast ratios quickly and easily with our Vue Color-Contrast-Checker PWA app. Ensure your web designs meet accessibility standards with real-time contrast ratio calculations. Perfect for designers, developers, and accessibility advocates. Built using Vue.js for optimal performance and usability.',
-        theme_color: '#005ff0',
+        theme_color: '#2563eb',
         start_url: '/',
         icons: [{
           src: 'pwa-192x192.png',
@@ -29,7 +29,7 @@ export default defineConfig({
           sizes: '512x512',
           type: 'image/png',
           purpose: 'any maskable',
-        }, ],
+        }],
       },
     }),
   ],
